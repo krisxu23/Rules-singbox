@@ -1212,7 +1212,7 @@
       {
         "tag": "Category-Ads",
         "type": "remote",
-        "url": "https://github.com/Lanlan13-14/Rules-singbox/raw/refs/heads/main/rules/banAd_mini.srs",
+        "url": "https://gcore.jsdelivr.net/gh/217heidai/adblockfilters@main/rules/adblocksingbox.srs",
         "format": "binary",
         "download_detour": "🚀 节点选择"
       },
